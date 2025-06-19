@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fastcv.site/sitemap.xml
+Host: https://fastcv.site
